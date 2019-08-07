@@ -1,0 +1,918 @@
+.version.yonward_copy /* version checker */
+{
+	color: #000001;
+	background-color: #661F30;
+}
+
+@-ms-viewport
+{
+	width: 768px;
+}
+
+@-webkit-viewport
+{
+	width: 768px;
+}
+
+@-o-viewport
+{
+	width: 768px;
+}
+
+@-moz-viewport
+{
+	width: 768px;
+}
+
+@viewport
+{
+	width: 768px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 768px;
+	min-height: 859px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-top: 89px;
+	padding-bottom: 76px;
+}
+
+#u5770-3
+{
+	z-index: 87;
+	min-height: 89px;
+}
+
+#u5770-3-bw
+{
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	z-index: 87;
+	top: 0px;
+}
+
+#u5793
+{
+	z-index: 109;
+	width: 227px;
+	top: 21px;
+	left: 22px;
+}
+
+#u5795
+{
+	z-index: 114;
+	width: 44px;
+	height: 47px;
+	margin-right: -10000px;
+	margin-top: 5px;
+}
+
+#u5794-4
+{
+	z-index: 110;
+	width: 173px;
+	margin-right: -10000px;
+	left: 54px;
+}
+
+#menuu5771
+{
+	z-index: 90;
+	width: 237px;
+	top: 41px;
+	left: 496px;
+}
+
+#u5786
+{
+	width: 77px;
+	min-height: 17px;
+	margin-right: -10000px;
+}
+
+#u5789
+{
+	width: 77px;
+}
+
+#u5789:hover
+{
+	width: 77px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5789.MuseMenuActive
+{
+	width: 77px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5791-4
+{
+	width: 43px;
+	min-height: 17px;
+	margin-right: -10000px;
+	left: 17px;
+}
+
+#u5789:hover #u5791-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 43px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u5789.MuseMenuActive #u5791-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 43px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u5772
+{
+	width: 65px;
+	min-height: 17px;
+	margin-right: -10000px;
+	left: 79px;
+}
+
+#u5773
+{
+	width: 65px;
+}
+
+#u5773.MuseMenuActive
+{
+	width: 65px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5776-4
+{
+	width: 32px;
+	min-height: 17px;
+	margin-right: -10000px;
+	left: 16px;
+}
+
+#u5773.MuseMenuActive #u5776-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 32px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u5779
+{
+	width: 91px;
+	min-height: 17px;
+	margin-right: -10000px;
+	left: 146px;
+}
+
+#u5780
+{
+	width: 91px;
+}
+
+#u5780.MuseMenuActive
+{
+	width: 91px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u5782-4
+{
+	width: 58px;
+	min-height: 17px;
+	margin-right: -10000px;
+	left: 16px;
+}
+
+#u5780.MuseMenuActive #u5782-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 58px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2898
+{
+	z-index: 15;
+	min-height: 209px;
+	padding: 30px 34px 131px;
+	background: transparent url("../../images/top-of-the-world1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u5190
+{
+	z-index: 130;
+	width: 139px;
+	height: 43px;
+	margin-left: 544px;
+	position: relative;
+	background: transparent url("../../images/download_on_the_app_store_badge_us-uk_135x40.svg") no-repeat left top;
+	background-size: 135px 40px;
+}
+
+#u2934-4
+{
+	z-index: 18;
+	width: 700px;
+	min-height: 62px;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 43px;
+	text-align: center;
+	letter-spacing: 3px;
+	font-size: 36px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 700;
+	margin-top: 104px;
+	position: relative;
+}
+
+#u2898-bw
+{
+	z-index: 15;
+	min-height: 209px;
+}
+
+#u2871
+{
+	z-index: 5;
+	min-height: 107px;
+	background-color: #FFFFFA;
+	padding-bottom: 61px;
+}
+
+#u2873-4
+{
+	z-index: 7;
+	width: 295px;
+	min-height: 52px;
+	background-color: transparent;
+	color: #4A4A49;
+	text-align: center;
+	font-size: 20px;
+	line-height: 24px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 55px;
+	left: 237px;
+}
+
+#u2871-bw
+{
+	z-index: 5;
+	min-height: 107px;
+}
+
+#u2899
+{
+	z-index: 16;
+	height: 370px;
+	background: transparent url("../../images/skater.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u2899-bw
+{
+	z-index: 16;
+	height: 370px;
+}
+
+#u2872
+{
+	z-index: 6;
+	min-height: 141px;
+	background-color: #FFFFFA;
+	padding-bottom: 47px;
+}
+
+#u2876-4
+{
+	z-index: 11;
+	width: 281px;
+	min-height: 82px;
+	background-color: transparent;
+	color: #4A4A49;
+	text-align: center;
+	font-size: 20px;
+	line-height: 24px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 59px;
+	left: 243px;
+}
+
+#u2872-bw
+{
+	z-index: 6;
+	min-height: 141px;
+}
+
+#u2900
+{
+	z-index: 17;
+	height: 370px;
+	background: transparent url("../../images/swan-dive.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u2900-bw
+{
+	z-index: 17;
+	height: 370px;
+}
+
+#pu4902
+{
+	width: 0.01px;
+}
+
+#u4902
+{
+	z-index: 2;
+	height: 3098px;
+	background: transparent url("../../images/alyssa smith.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u4902-bw
+{
+	z-index: 2;
+	height: 3098px;
+}
+
+#u4903
+{
+	z-index: 3;
+	height: 3098px;
+	background: transparent url("../../images/u4903-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, color-stop(74%, rgba(121,121,121,0)),to(rgba(121,121,121,0.8)));
+	background: -webkit-linear-gradient(top,rgba(121,121,121,0) 74%,rgba(121,121,121,0.8) );
+	background: linear-gradient(to bottom,rgba(121,121,121,0) 74%,rgba(121,121,121,0.8) );
+}
+
+#u4903-bw
+{
+	z-index: 3;
+	height: 3098px;
+}
+
+#u4904
+{
+	z-index: 4;
+	min-height: 2486px;
+	background: -webkit-gradient(linear, center top, center bottom, from(#1E1E1E),color-stop(100%, rgba(7,24,24,0.4)));
+	background: -webkit-linear-gradient(top,#1E1E1E ,rgba(7,24,24,0.4) 100%);
+	background: linear-gradient(to bottom,#1E1E1E ,rgba(7,24,24,0.4) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF1E1E1E, endColorstr=#66071818, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF1E1E1E', endColorstr='#66071818', GradientType=0)";
+	padding-bottom: 612px;
+}
+
+#invite
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 2468px;
+	left: 384px;
+}
+
+#u4904-bw
+{
+	z-index: 4;
+	min-height: 2486px;
+}
+
+#pu4552-4
+{
+	width: 0.01px;
+	padding-bottom: 2698px;
+	margin-left: 60px;
+	margin-top: -2932px;
+}
+
+#u4552-4
+{
+	z-index: 35;
+	width: 648px;
+	min-height: 33px;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 54px;
+	text-align: center;
+	letter-spacing: 5px;
+	font-size: 45px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 700;
+	position: fixed;
+	top: 4366px;
+	left: 60px;
+}
+
+#u4565
+{
+	z-index: 63;
+	width: 285px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	position: fixed;
+	top: 2781px;
+	left: 80px;
+}
+
+#u4567-4
+{
+	z-index: 68;
+	width: 285px;
+	min-height: 41px;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 34px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u4566-4
+{
+	z-index: 64;
+	width: 285px;
+	min-height: 146px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 17px;
+	line-height: 26px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	margin-top: 11px;
+	position: relative;
+}
+
+#u4555
+{
+	z-index: 41;
+	width: 293px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 3200px;
+	left: 80px;
+}
+
+#u4556
+{
+	z-index: 42;
+	width: 293px;
+	height: 583px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../../images/explore-in-phone.png") no-repeat center center;
+}
+
+#u4560
+{
+	z-index: 52;
+	width: 285px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	position: fixed;
+	top: 3947px;
+	left: 84px;
+}
+
+#u4561-4
+{
+	z-index: 57;
+	width: 285px;
+	min-height: 41px;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 34px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u4562-4
+{
+	z-index: 53;
+	width: 285px;
+	min-height: 146px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 17px;
+	line-height: 26px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	margin-top: 11px;
+	position: relative;
+}
+
+#u4551-6
+{
+	z-index: 29;
+	width: 590px;
+	min-height: 64px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 20px;
+	line-height: 24px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 700;
+	position: fixed;
+	top: 1722px;
+	left: 89px;
+}
+
+#u4550-7
+{
+	z-index: 22;
+	width: 590px;
+	min-height: 64px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 19px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	top: 2002px;
+	left: 89px;
+}
+
+#u4550,#u4550-2,#u4550-4
+{
+	line-height: 29px;
+}
+
+#u4550-5
+{
+	line-height: 23px;
+}
+
+.js #u4550-7.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u4563
+{
+	z-index: 61;
+	width: 293px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 2617px;
+	left: 424px;
+}
+
+#u4564
+{
+	z-index: 62;
+	width: 293px;
+	height: 583px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../../images/discover-in-phone-2.png") no-repeat center center;
+}
+
+#u4557
+{
+	z-index: 43;
+	width: 285px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	position: fixed;
+	top: 3349px;
+	left: 428px;
+}
+
+#u4558-4
+{
+	z-index: 48;
+	width: 285px;
+	min-height: 41px;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 34px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u4559-4
+{
+	z-index: 44;
+	width: 285px;
+	min-height: 146px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 17px;
+	line-height: 26px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	margin-top: 11px;
+	position: relative;
+}
+
+#u4553
+{
+	z-index: 39;
+	width: 293px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 3783px;
+	left: 424px;
+}
+
+#u4554
+{
+	z-index: 40;
+	width: 293px;
+	height: 583px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../../images/create-in-phone.png") no-repeat center center;
+}
+
+#u4571-6
+{
+	z-index: 73;
+	width: 381px;
+	min-height: 29px;
+	background-color: transparent;
+	color: #353535;
+	text-align: center;
+	margin-left: 189px;
+	margin-top: 84px;
+	position: relative;
+}
+
+#u4571-2
+{
+	font-size: 20px;
+	line-height: 24px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 700;
+}
+
+#u4571-4
+{
+	font-size: 18px;
+	line-height: 22px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+}
+
+#u5176
+{
+	z-index: 86;
+	width: 300px;
+	min-height: 139px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 230px;
+	position: relative;
+}
+
+#u4572-4
+{
+	z-index: 79;
+	width: 349px;
+	min-height: 26px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	margin-left: 205px;
+	position: relative;
+}
+
+#pu4573
+{
+	width: 0.01px;
+	margin-left: 246px;
+	margin-top: 16px;
+}
+
+#u4573
+{
+	z-index: 83;
+	width: 50px;
+	height: 50px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../../images/facebook.png") no-repeat center center;
+}
+
+#u4573:hover
+{
+	width: 50px;
+	height: 50px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../../images/facebook-hover.png") no-repeat center center;
+}
+
+#u4574
+{
+	z-index: 84;
+	width: 50px;
+	height: 50px;
+	position: relative;
+	margin-right: -10000px;
+	left: 112px;
+	background: transparent url("../../images/twitter.png") no-repeat center center;
+}
+
+#u4574:hover
+{
+	width: 50px;
+	height: 50px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../../images/twitter-hover.png") no-repeat center center;
+}
+
+#u4575
+{
+	z-index: 85;
+	width: 50px;
+	height: 50px;
+	position: relative;
+	margin-right: -10000px;
+	left: 224px;
+	background: transparent url("../../images/linked-in.png") no-repeat center center;
+}
+
+#u4575:hover
+{
+	width: 50px;
+	height: 50px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../../images/linked-in-hover.png") no-repeat center center;
+}
+
+#u5063
+{
+	z-index: 115;
+	min-height: 156.95000000000437px;
+	background-color: #F9FFEF;
+	padding: 19px 175px 0px 166px;
+}
+
+#u5191
+{
+	z-index: 131;
+	width: 139px;
+	height: 43px;
+	margin-left: 144px;
+	position: relative;
+	background: transparent url("../../images/download_on_the_app_store_badge_us-uk_135x40.svg") no-repeat left top;
+	background-size: 135px 40px;
+}
+
+.nosvg #u5190,.nosvg #u5191
+{
+	background-image: url('../../images/download_on_the_app_store_badge_us-uk_135x40_poster_u5181.png');
+}
+
+#pu5064-5
+{
+	width: 0.01px;
+	margin-top: 20px;
+	position: relative;
+}
+
+#u5064-5
+{
+	z-index: 116;
+	width: 179px;
+	min-height: 22px;
+	background-color: transparent;
+	color: #7F7F7F;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u5066-5
+{
+	z-index: 125;
+	width: 179px;
+	min-height: 22px;
+	background-color: transparent;
+	color: #7F7F7F;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	left: 248px;
+}
+
+#u5064,#u5066
+{
+	text-decoration: none;
+	color: #7F7F7F;
+}
+
+#u5065-4
+{
+	z-index: 121;
+	width: 164px;
+	min-height: 43px;
+	background-color: transparent;
+	color: #7F7F7F;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	margin-left: 132px;
+	margin-top: 29px;
+	position: relative;
+}
+
+#u5063-bw
+{
+	z-index: 115;
+	min-height: 156.95000000000437px;
+	margin-top: 29px;
+}
+
+body
+{
+	position: relative;
+	min-width: 768px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

@@ -1,0 +1,91 @@
+#u5963-3
+{
+	border-color: #000000;
+	background-color: #FF7A47;
+}
+
+#u5988-4
+{
+	position: relative;
+}
+
+#u5988-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u5987
+{
+	position: relative;
+	background: transparent url("../../images/golden-compass-white.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u5986,#menuu5964
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u5979,#u5982
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u5985-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u5965,#u5966
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u5968-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u5972,#u5975
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u5976-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+

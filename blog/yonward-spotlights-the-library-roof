@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+
+<html class="html" lang="en-US">
+
+
+    <!-- BC_OBNW -->
+<head>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+<title>Yonward Spotlights: The Library Roof</title>
+<link type="text/css" href="http://www.yonward.com/StyleSheets/ModuleStyleSheets.css" rel="StyleSheet" />
+<script type="text/javascript">var jslang='EN';</script>
+<link rel="stylesheet" href="../CatalystStyles/Box.css?vs=b2050.r494698-phase1" type="text/css" media="screen" />
+<script type="text/javascript" src="../CatalystScripts/Java_Box.js?vs=b2050.r494698-phase1"></script>
+<script type="text/javascript">
+            if (typeof Muse == "undefined") window.Muse = {};
+            window.Muse.assets = {
+                "required": ["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "jquery.musemenu.js", "untitled-5.css"],
+                "outOfDate": []
+            };
+        </script>
+<link rel="shortcut icon" href="../images/favicon.ico?3848074765" />
+<link rel="stylesheet" type="text/css" href="../css/site_global.css?347356056" />
+<link rel="stylesheet" type="text/css" href="../css/master_b-master.css?316670151" />
+<link rel="stylesheet" type="text/css" href="../css/untitled-5.css?48196405" id="pagesheet" />
+<script type="text/javascript">
+            document.documentElement.className += ' js';
+            var __adobewebfontsappname__ = "muse";
+        </script>
+<script type="text/javascript">
+            document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                '//webfonts.creativecloud.com/open-sans:n7:all.js" type="text/javascript">\x3C/script>');
+        </script>
+<script src="http://use.typekit.net/kmt6wcd.js"></script>
+<script>
+            try {
+                Typekit.load();
+            } catch (e) {}
+        </script>
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Oswald|Open+Sans:400italic,600italic,700italic,400,700,600" />
+<link rel="stylesheet" href="../css/base.css" />
+<link rel="stylesheet" href="../css/skeleton.css" />
+<link rel="stylesheet" href="../css/layout.css" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="../js/slider.js"></script>
+<script>
+            $(document).ready(function() {
+
+                // Code for Mobile Menu, shows up on small screen resolutions
+                $('.expand-menu').click(function() {
+                    $(this).toggleClass('open');
+                    if ($('nav.small.top ul').is(':hidden')) {
+                        $('nav.small.top ul').slideDown();
+                    } else {
+                        $('nav.small.top ul').slideUp();
+                    }
+
+                });
+                // --
+
+                // Script to highlight "Blog" menu entry
+                $('a[href^="/_blog"]').parent().toggleClass('selected');
+                // --
+
+                var logout = '';
+                if (logout !== '') {
+                    $('nav.top.small ul').append('<li></li>');
+                    $('nav.top.main ul').append('<li></li>');
+                }
+
+            });
+        </script>
+<meta name="generator" content="2015.0.2.310" />
+<meta name="image-hide-from-external-url" content="true" />
+<meta name="image-hide-location" content="true" />
+<!-- CSS -->
+<!-- Other scripts -->
+<!-- JS includes -->
+<!--[if lt IE 9]>
+  <script src="/scripts/html5shiv.js?4241844378" type="text/javascript"></script>
+  <![endif]-->
+<!--custom head HTML-->
+<!-- Basic Page Needs
+	================================================== -->
+<meta charset="utf-8" />
+<meta name="description" />
+<meta name="author" />
+<!-- Mobile Specific Metas
+	================================================== -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<!-- CSS
+	================================================== -->
+<!-- JS
+	================================================== -->
+<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+<body>
+
+
+    
+        <div class="clearfix" id="page">
+            <!-- column -->
+            <div class="position_content" id="page_position_content">
+                <div class="browser_width colelem" id="u3612-bw">
+                    <div id="u3612">
+                        <!-- group -->
+                        <div class="clearfix" id="u3612_align_to_page">
+                            <div class="grpelem" id="u3613">
+                                <!-- simple frame -->
+                            </div> <img class="grpelem" id="u3620-4" alt="yonward" width="208" height="73" src="../images/u3620-4.png">
+                            <!-- rasterized frame -->
+                        </div>
+                    </div>
+                </div>
+                <nav class="MenuBar clearfix colelem" id="menuu5550">
+                    <!-- horizontal box -->
+                    <div class="MenuItemContainer clearfix grpelem" id="u5551">
+                        <!-- vertical box -->
+                        <!-- m_editable region-id="editable-static-tag-U5552" template="templates/desktop-untitled-5.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
+                        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u5552" data-href="page:U5247" data-muse-uid="U5552" href="../index.html">
+                            <!-- horizontal box -->
+                            <!-- m_editable region-id="editable-static-tag-U5555" template="templates/desktop-untitled-5.html" data-type="html" data-ice-options="disableImageResize,link,clickable" -->
+                            <div class="MenuItemLabel NoWrap clearfix grpelem" id="u5555-4">
+                                <!-- content -->
+                                <div data-muse-uid="U5555" data-muse-type="txt_frame">
+                                    <p>Home</p>
+                                </div>
+                            </div>
+                            <!-- /m_editable -->
+                        </a>
+                        <!-- /m_editable -->
+                    </div>
+                    <div class="MenuItemContainer clearfix grpelem" id="u5558">
+                        <!-- vertical box -->
+                        <!-- m_editable region-id="editable-static-tag-U5559" template="templates/desktop-untitled-5.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
+                        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u5559" href="../_blog/Blog" data-muse-uid="U5559">
+                            <!-- horizontal box -->
+                            <!-- m_editable region-id="editable-static-tag-U5560" template="templates/desktop-untitled-5.html" data-type="html" data-ice-options="disableImageResize,link,clickable" -->
+                            <div class="MenuItemLabel NoWrap clearfix grpelem" id="u5560-4">
+                                <!-- content -->
+                                <div data-muse-uid="U5560" data-muse-type="txt_frame">
+                                    <p>Blog</p>
+                                </div>
+                            </div>
+                            <!-- /m_editable -->
+                        </a>
+                        <!-- /m_editable -->
+                    </div>
+                    <div class="MenuItemContainer clearfix grpelem" id="u5565">
+                        <!-- vertical box -->
+                        <!-- m_editable region-id="editable-static-tag-U5568" template="templates/desktop-untitled-5.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
+                        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u5568" data-href="page:U3761" data-muse-uid="U5568" href="../contact.html">
+                            <!-- horizontal box -->
+                            <!-- m_editable region-id="editable-static-tag-U5571" template="templates/desktop-untitled-5.html" data-type="html" data-ice-options="disableImageResize,link,clickable" -->
+                            <div class="MenuItemLabel NoWrap clearfix grpelem" id="u5571-4">
+                                <!-- content -->
+                                <div data-muse-uid="U5571" data-muse-type="txt_frame">
+                                    <p>Contact</p>
+                                </div>
+                            </div>
+                            <!-- /m_editable -->
+                        </a>
+                        <!-- /m_editable -->
+                    </div>
+                </nav>
+                <div class="colelem" id="u3816">
+                    <!-- custom html --><section class="container">
+	
+	<div class="seven columns">
+	
+		<link rel="alternate" type="application/rss+xml" title="RSS" href="../RSSRetrieve.aspx?ID=19950&amp;Type=RSS20" /><div id="catblogoutput"><div class="blog-post">
+<h2 class="post-title"> </h2>
+<ul class="breadcrumbs clearfix">
+    <li><a href="../_blog/Blog">&larr; Back to Blog Posts</a></li>
+</ul>
+<article class="blogpost">
+<header>
+<div class="avatar">
+<div class="overlay"><br />
+</div>
+<br />
+</div>
+<h3>Yonward Spotlights: The Library Roof</h3>
+</header>
+<span class="meta-info">Posted on&nbsp;<strong>Thursday, January 28, 2016</strong>&nbsp;by&nbsp;<strong>Meghan Barton</strong></span>&nbsp;<p>From "The Unofficially Official Guide to Tufts" by Yonward user Kelsey
+    <div>We end the tour from the library roof, an ideal destination for sight-seeing and relaxing in nice weather. The Boston skyline is visible from the roof,
+        reminding Tufts students of the world outside the bubble. Make sure to check out the green roof garden, especially the Tufts sign made out of plants!</div>
+    <p><img src="../Image-1-1.jpg">
+        <br />
+    </p>
+</p>&nbsp;<a name="comments"></a><!--
+For more information on enabling social modules, please see:
+http://kb.worldsecuresystems.com/851/cpsid_85118.html
+--></article>
+<div class="trackbacks">
+<dl>
+    <dd></dd>
+</dl>
+</div>
+<!-- END #trackbacks -->
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'yonward';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+</div>
+<!-- END .blog-post --></div>
+
+	</div>
+
+</section></div>
+                <div class="verticalspacer">&nbsp;</div>
+            </div>
+        </div>
+        <!-- JS includes -->
+        <script type="text/javascript">
+            if (document.location.protocol != 'https:') document.write(
+                '\x3Cscript src="http://musecdn1.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+        </script>
+        <script type="text/javascript">
+            window.jQuery || document.write('\x3Cscript src="/scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+        </script>
+        <script src="../scripts/museutils.js?4098652165" type="text/javascript"></script>
+        <script src="../scripts/jquery.watch.js?3999102769" type="text/javascript"></script>
+        <script src="../scripts/jquery.musemenu.js?4042164668" type="text/javascript"></script>
+        <!-- Other scripts -->
+        <script type="text/javascript">
+            $(document).ready(function() {
+                try {
+                    (function() {
+                        var a = {},
+                            b = function(a) {
+                                if (a.match(/^rgb/)) return a = a.replace(/\s+/g, "").match(/([\d\,]+)/gi)[0].split(","), (parseInt(a[0]) <<
+                                    16) + (parseInt(a[1]) << 8) + parseInt(a[2]);
+                                if (a.match(/^\#/)) return parseInt(a.substr(1), 16);
+                                return 0
+                            };
+                        (function() {
+                            $('link[type="text/css"]').each(function() {
+                                var b = ($(this).attr("href") || "").match(/\/?css\/([\w\-]+\.css)\?(\d+)/);
+                                b && b[1] && b[2] && (a[b[1]] = b[2])
+                            })
+                        })();
+                        (function() {
+                            $("body").append('<div class="version" style="display:none; width:1px; height:1px;"></div>');
+                            for (var c = $(".version"), d = 0; d < Muse.assets.required.length;) {
+                                var f = Muse.assets.required[d],
+                                    g = f.match(/([\w\-\.]+)\.(\w+)$/),
+                                    k = g && g[1] ? g[1] : null,
+                                    g = g && g[2] ? g[2] : null;
+                                switch (g.toLowerCase()) {
+                                    case "css":
+                                        k = k.replace(/\W/gi, "_").replace(/^([^a-z])/gi, "_$1");
+                                        c.addClass(k);
+                                        var g = b(c.css("color")),
+                                            h = b(c.css("background-color"));
+                                        g != 0 || h != 0 ? (Muse.assets.required.splice(d, 1), "undefined" != typeof a[f] && (g != a[
+                                            f] >>> 24 || h != (a[f] & 16777215)) && Muse.assets.outOfDate.push(f)) : d++;
+                                        c.removeClass(k);
+                                        break;
+                                    case "js":
+                                        k.match(/^jquery-[\d\.]+/gi) &&
+                                            typeof $ != "undefined" ? Muse.assets.required.splice(d, 1) : d++;
+                                        break;
+                                    default:
+                                        throw Error("Unsupported file type: " + g);
+                                }
+                            }
+                            c.remove();
+                            if (Muse.assets.outOfDate.length || Muse.assets.required.length) c =
+                                "Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.", (
+                                    d = location && location.search && location.search.match && location.search.match(/muse_debug/gi)
+                                ) && Muse.assets.outOfDate.length && (c += "\nOut of date: " + Muse.assets.outOfDate.join(",")), d &&
+                                Muse.assets.required.length && (c += "\nMissing: " + Muse.assets.required.join(",")), alert(c)
+                        })()
+                    })();
+                    /* body */
+                    Muse.Utils.transformMarkupToFixBrowserProblemsPreInit(); /* body */
+                    Muse.Utils.prepHyperlinks(true); /* body */
+                    Muse.Utils.resizeHeight() /* resize height */
+                    Muse.Utils.initWidget('.MenuBar', function(elem) {
+                        return $(elem).museMenu();
+                    }); /* unifiedNavBar */
+                    Muse.Utils.fullPage('#page'); /* 100% height page */
+                    Muse.Utils.showWidgetsWhenReady(); /* body */
+                    Muse.Utils.transformMarkupToFixBrowserProblems(); /* body */
+                } catch (e) {
+                    if (e && 'function' == typeof e.notify) e.notify();
+                    else Muse.Assert.fail('Error calling selector function:' + e);
+                }
+            });
+        </script>
+    
+</body>
+</html>
