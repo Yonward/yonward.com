@@ -69,7 +69,7 @@ var __adobewebfontsappname__ = "muse";
     </div>
     <div class="MenuItemContainer clearfix grpelem" id="u5533"><!-- vertical box -->
      <!-- m_editable region-id="editable-static-tag-U5534" template="privacy-policy.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
-     <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u5534" href="_blog/Blog" data-muse-uid="U5534"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U5537" template="privacy-policy.html" data-type="html" data-ice-options="disableImageResize,link,clickable" --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u5537-4"><!-- content --><div data-muse-uid="U5537" data-muse-type="txt_frame">
+     <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u5534" href="blog/index.html" data-muse-uid="U5534"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U5537" template="privacy-policy.html" data-type="html" data-ice-options="disableImageResize,link,clickable" --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u5537-4"><!-- content --><div data-muse-uid="U5537" data-muse-type="txt_frame">
  <p>Blog</p>
 </div></div><!-- /m_editable --></a>
      <!-- /m_editable -->

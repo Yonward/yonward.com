@@ -134,7 +134,7 @@
                     <div class="MenuItemContainer clearfix grpelem" id="u5558">
                         <!-- vertical box -->
                         <!-- m_editable region-id="editable-static-tag-U5559" template="templates/desktop-untitled-5.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
-                        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u5559" href="../_blog/Blog" data-muse-uid="U5559">
+                        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u5559" href="../blog/index.html" data-muse-uid="U5559">
                             <!-- horizontal box -->
                             <!-- m_editable region-id="editable-static-tag-U5560" template="templates/desktop-untitled-5.html" data-type="html" data-ice-options="disableImageResize,link,clickable" -->
                             <div class="MenuItemLabel NoWrap clearfix grpelem" id="u5560-4">
@@ -172,7 +172,7 @@
 		<link rel="alternate" type="application/rss+xml" title="RSS" href="../RSSRetrieve.aspx?ID=19950&amp;Type=RSS20" /><div id="catblogoutput"><div class="blog-post">
 <h2 class="post-title"> </h2>
 <ul class="breadcrumbs clearfix">
-    <li><a href="../_blog/Blog">&larr; Back to Blog Posts</a></li>
+    <li><a href="../blog/index.html">&larr; Back to Blog Posts</a></li>
 </ul>
 <article class="blogpost">
 <header>
